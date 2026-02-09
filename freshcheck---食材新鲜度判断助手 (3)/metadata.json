@@ -1,0 +1,8 @@
+{
+  "name": "FreshCheck - 食材新鲜度判断助手",
+  "description": "基于AI的食材新鲜度识别与储存建议工具，结合地理位置提供差异化保鲜方案。",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
